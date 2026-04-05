@@ -13,8 +13,8 @@
 	<version>0.0.1-SNAPSHOT</version>
 
 	<properties>
-		<kotlin.version>1.9.23</kotlin.version>
-		<ktorm.version>4.1.1</ktorm.version>
+		<kotlin.version>2.0.21</kotlin.version>
+		<ktorm.version>4.2.0-SNAPSHOT</ktorm.version>
 	</properties>
 
 	<dependencies>
@@ -82,6 +82,7 @@
 				<extensions>true</extensions>
 				<configuration>
 					<args>
+						<arg>-language-version=1.9</arg>
 						<arg>-Xjsr305=strict</arg>
 					</args>
 					<compilerPlugins>
