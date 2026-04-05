@@ -5,7 +5,7 @@
 
 A simple example project integrating [Ktorm](https://www.ktorm.org/) with Spring Boot.
 
-This project is build by Maven. If you prefer Gradle, see [kotlin-orm/ktorm-example-spring-boot](https://github.com/kotlin-orm/ktorm-example-spring-boot).
+This project is built by Maven. If you prefer Gradle, see [kotlin-orm/ktorm-example-spring-boot](https://github.com/kotlin-orm/ktorm-example-spring-boot).
 
 To run this project, you need a MySQL service running on your local machine, and construct the table schemas first.
 
