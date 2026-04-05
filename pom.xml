@@ -82,6 +82,7 @@
 				<extensions>true</extensions>
 				<configuration>
 					<args>
+						<arg>-api-version=1.9</arg>
 						<arg>-language-version=1.9</arg>
 						<arg>-Xjsr305=strict</arg>
 					</args>
